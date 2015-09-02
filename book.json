@@ -1,5 +1,7 @@
 {
     "variables": {
+        "highlighter": "pygments",
+        "markdown": "kramdown",
         "SPARK_VERSION": "1.5.0-SNAPSHOT",
         "SPARK_VERSION_SHORT": "1.5.0",
         "SCALA_BINARY_VERSION": "2.10",
