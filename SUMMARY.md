@@ -1,6 +1,6 @@
 # Summary
 
-* [前言](README.md)
+* [Introduction](README.md)
 * [概览](index.md)
 * [开发指南](programming-guide.md)
    * [快速开始](quick-start.md)
